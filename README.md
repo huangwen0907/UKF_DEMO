@@ -8,7 +8,11 @@ http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/pdf/slam06-ukf-4.pdf
 # Run The Code:
 
 First: Process the Data
-> ./ukf ../data/data_synthetic.txt ../data/output.txt
+>mkdir build
+cd build
+cmake ..
+make 
+./ukf ../data/data_synthetic.txt ../data/output.txt
 
 Second: Plot the Data
 > cd ../data
