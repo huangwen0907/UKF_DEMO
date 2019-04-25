@@ -1,6 +1,6 @@
 # UKF_DEMO
 
-reference article:
+Reference article:
 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.6539&rep=rep1&type=pdf
 https://www.cse.sc.edu/~terejanu/files/tutorialUKF.pdf
